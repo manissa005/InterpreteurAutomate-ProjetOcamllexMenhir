@@ -1,6 +1,0 @@
-Nous avons réalise la phase 1 et la phase 2 du projet.
-
-pour compiler il suffit:
-     -d'executer la commande make clean dans le repertoire du projet (pour effacer d'eventuelles fichiers anciens).
-     -d'executer la commande make dans le repertoire du projet.
-     -d'executer la commande ./parser < ex toujours dans le repertoire du projet (ex etant un fichier contenant l'automate)
